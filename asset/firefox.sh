@@ -45,7 +45,7 @@ xlunch --window --title "PingviniX Store"  \
        --backgroundcolor ffffffff --textcolor 000000ff --font DejaVuSans/36 \
        --button "/opt/appstore/img/img_back.png;;1,1;/opt/appstore/appstore_nocache" \
        --button "/tmp/description.png;;425,0;null" \
-       --button "/opt/appstore/img/img_delete.png;;25,300;./firefox_delete.sh" \
+       --button "/opt/appstore/img/img_delete.png;;25,300;/tmp/store/asset/firefox_delete.sh" \
        --button "/opt/appstore/img/img_open.png;;225,300;/opt/firefox/firefox" \
        --button "/tmp/store/asset/image/firefox_scr.png;;1,400;null" \
 )
@@ -62,7 +62,7 @@ xlunch --window --title "PingviniX Store"  \
        --backgroundcolor ffffffff --textcolor 000000ff --font DejaVuSans/36 \
        --button "/opt/appstore/img/img_back.png;;1,1;/opt/appstore/appstore_nocache" \
        --button "/tmp/description.png;;425,0;null" \
-       --button "/opt/appstore/img/img_delete.png;;25,300;./firefox_delete.sh" \
+       --button "/opt/appstore/img/img_delete.png;;25,300;/tmp/store/asset/firefox_delete.sh" \
        --button "/opt/appstore/img/img_update.png;;225,300;firefox_update.sh" \
        --button "/tmp/store/asset/image/firefox_scr.png;;1,400;null" \
 )
@@ -79,7 +79,7 @@ xlunch --window --title "PingviniX Store"  \
        --backgroundcolor ffffffff --textcolor 000000ff --font DejaVuSans/36 \
        --button "/opt/appstore/img/img_back.png;;1,1;/opt/appstore/appstore_nocache" \
        --button "/tmp/description.png;;425,0;null" \
-       --button "/opt/appstore/img/img_install.png;;60,300;./firefox_install.sh" \
+       --button "/opt/appstore/img/img_install.png;;60,300;/tmp/store/asset/firefox_install.sh" \
        --button "/tmp/store/asset/image/firefox_scr.png;;1,400;null" \
 )
 fi
