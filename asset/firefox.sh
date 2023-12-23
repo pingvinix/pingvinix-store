@@ -43,10 +43,10 @@ xlunch --window --title "PingviniX Store"  \
        --border 50 \
        --scrollbarcolor 00000000 --scrollindicatorcolor 00000000 \
        --backgroundcolor ffffffff --textcolor 000000ff --font DejaVuSans/36 \
-       --button "./img/img_back.png;;1,1;./appstore_nocache" \
+       --button "/opt/appstore/img/img_back.png;;1,1;/opt/appstore/appstore_nocache" \
        --button "/tmp/description.png;;425,0;null" \
-       --button "./img/img_delete.png;;25,300;./firefox_delete.sh" \
-       --button "./img/img_open.png;;225,300;/opt/firefox/firefox" \
+       --button "/opt/appstore/img/img_delete.png;;25,300;./firefox_delete.sh" \
+       --button "/opt/appstore/img/img_open.png;;225,300;/opt/firefox/firefox" \
        --button "/tmp/store/asset/image/firefox_scr.png;;1,400;null" \
 )
 fi
@@ -60,10 +60,10 @@ xlunch --window --title "PingviniX Store"  \
        --border 50 \
        --scrollbarcolor 00000000 --scrollindicatorcolor 00000000 \
        --backgroundcolor ffffffff --textcolor 000000ff --font DejaVuSans/36 \
-       --button "./img/img_back.png;;1,1;./appstore_nocache" \
+       --button "/opt/appstore/img/img_back.png;;1,1;/opt/appstore/appstore_nocache" \
        --button "/tmp/description.png;;425,0;null" \
-       --button "./img/img_delete.png;;25,300;./firefox_delete.sh" \
-       --button "./img/img_update.png;;225,300;firefox_update.sh" \
+       --button "/opt/appstore/img/img_delete.png;;25,300;./firefox_delete.sh" \
+       --button "/opt/appstore/img/img_update.png;;225,300;firefox_update.sh" \
        --button "/tmp/store/asset/image/firefox_scr.png;;1,400;null" \
 )
 fi
@@ -77,9 +77,9 @@ xlunch --window --title "PingviniX Store"  \
        --border 50 \
        --scrollbarcolor 00000000 --scrollindicatorcolor 00000000 \
        --backgroundcolor ffffffff --textcolor 000000ff --font DejaVuSans/36 \
-       --button "./img/img_back.png;;1,1;./appstore_nocache" \
-       --button "./tmp/description.png;;425,0;null" \
-       --button "./img/img_install.png;;60,300;./firefox_install.sh" \
+       --button "/opt/appstore/img/img_back.png;;1,1;/opt/appstore/appstore_nocache" \
+       --button "/tmp/description.png;;425,0;null" \
+       --button "/opt/appstore/img/img_install.png;;60,300;./firefox_install.sh" \
        --button "/tmp/store/asset/image/firefox_scr.png;;1,400;null" \
 )
 fi
