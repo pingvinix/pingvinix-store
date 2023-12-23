@@ -46,7 +46,7 @@ xlunch --window --title "PingviniX Store"  \
        --button "./img/img_back.png;;1,1;./appstore_nocache" \
        --button "/tmp/description.png;;425,0;null" \
        --button "./img/img_delete.png;;25,300;./firefox_del.sh" \
-       --button "./img/img_open.png;;225,300;exec firefox-esr" \
+       --button "./img/img_open.png;;225,300;/opt/firefox/firefox" \
        --button "/tmp/store/asset/image/firefox_scr.png;;1,400;null" \
 )
 fi
