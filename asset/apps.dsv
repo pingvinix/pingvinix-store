@@ -1,5 +1,5 @@
 Anydesk;/usr/share/icons/png/anydesk.png;./anydesk.sh
-Firefox;/usr/share/icons/png/firefox.png;./firefox.sh
+Firefox;/usr/share/icons/png/firefox.png;/tmp/store/asset/firefox.sh
 GIMP;/usr/share/icons/png/gimp.png;./gimp.sh
 Inkscape;/usr/share/icons/png/inkscape.png;./inkscape.sh
 LibreOffice;/usr/share/icons/png/libreoffice.png;./libreoffice.sh
