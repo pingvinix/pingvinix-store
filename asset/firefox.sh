@@ -3,7 +3,7 @@
 magick convert -size 700x400 xc:transparent /tmp/description.png
 magick /tmp/description.png \
        -pointsize 16 -annotate +65+40 'Версия: 115.6' \
-       -pointsize 16 -annotate +65+80 'Размер загрузки: 70,8 Мб' \
+       -pointsize 16 -annotate +65+80 'Размер загрузки: 68,9 Мб' \
        -pointsize 16 -annotate +65+120 'Описание: Быстрый, конфиденциальный и безопасный веб-браузер
 Когда дело касается вашей жизни в Интернете, у вас есть выбор:
 принять заводские настройки или поставить конфиденциальность на
