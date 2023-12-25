@@ -1,9 +1,9 @@
-Anydesk;/usr/share/icons/png/anydesk.png;./anydesk.sh
+Anydesk;/usr/share/icons/png/anydesk.png;/tmp/store/asset/anydesk.sh
 Firefox;/usr/share/icons/png/firefox.png;/tmp/store/asset/firefox.sh
-GIMP;/usr/share/icons/png/gimp.png;./gimp.sh
-Inkscape;/usr/share/icons/png/inkscape.png;./inkscape.sh
-LibreOffice;/usr/share/icons/png/libreoffice.png;./libreoffice.sh
-Pinta;/usr/share/icons/png/com.github.maoschanz.drawing.png;./pinta.sh
-Supertux;/usr/share/icons/png/supertux.png;./supertux.sh
-Telegram;/usr/share/icons/png/telegram.png;./telegram.sh
-Zoom;/usr/share/icons/png/zoom-icon.png;./zoom.sh
+GIMP;/usr/share/icons/png/gimp.png;/tmp/store/asset/gimp.sh
+Inkscape;/usr/share/icons/png/inkscape.png;/tmp/store/asset/inkscape.sh
+LibreOffice;/usr/share/icons/png/libreoffice.png;/tmp/store/asset/libreoffice.sh
+Pinta;/usr/share/icons/png/com.github.maoschanz.drawing.png;/tmp/store/asset/pinta.sh
+Supertux;/usr/share/icons/png/supertux.png;/tmp/store/asset/supertux.sh
+Telegram;/usr/share/icons/png/telegram.png;/tmp/store/asset/telegram.sh
+Zoom;/usr/share/icons/png/zoom-icon.png;/tmp/store/asset/zoom.sh
