@@ -29,7 +29,7 @@ if [ "$STAT" = "2" ]
 then
 (
 xlunch --window --title "PingviniX Store"  \
-       --input /tmp/store/asset/firefox.dsv \
+       --input /tmp/store/asset/anydesk.dsv \
        --noprompt --textafter --iconsize 96 --textpadding 30 \
        --border 50 \
        --scrollbarcolor 00000000 --scrollindicatorcolor 00000000 \
@@ -46,7 +46,7 @@ if [ "$STAT" = "1" ]
 then
 (
 xlunch --window --title "PingviniX Store"  \
-       --input /tmp/store/asset/firefox.dsv \
+       --input /tmp/store/asset/anydesk.dsv \
        --noprompt --textafter --iconsize 96 --textpadding 30 \
        --border 50 \
        --scrollbarcolor 00000000 --scrollindicatorcolor 00000000 \
@@ -63,7 +63,7 @@ if [ "$STAT" = "0" ]
 then
 (
 xlunch --window --title "PingviniX Store"  \
-       --input /tmp/store/asset/firefox.dsv \
+       --input /tmp/store/asset/anydesk.dsv \
        --noprompt --textafter --iconsize 96 --textpadding 30 \
        --border 50 \
        --scrollbarcolor 00000000 --scrollindicatorcolor 00000000 \
