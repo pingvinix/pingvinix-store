@@ -4,7 +4,7 @@ magick convert -size 700x400 xc:transparent /tmp/description.png
 magick /tmp/description.png \
        -pointsize 16 -annotate +65+40 'Версия: 6.3' \
        -pointsize 16 -annotate +65+80 'Размер загрузки: 5,5 Мб' \
-       -pointsize 16 -annotate +65+120 'Подключитесь к компьютеру удаленно
+       -pointsize 16 -annotate +65+120 'Описание: Подключитесь к компьютеру удаленно
 AnyDesk обеспечивает безопасное и надежное подключение
 к удаленному рабочему столу как для ИТ-специалистов, так
 и для тех, кто постоянно находится в пути.' \
