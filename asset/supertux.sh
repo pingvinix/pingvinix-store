@@ -41,7 +41,7 @@ xlunch --window --title "PingviniX Store"  \
        --button "/tmp/description.png;;425,0;null" \
        --button "/opt/appstore/img/img_delete.png;;25,300;/tmp/store/asset/supertux_delete.sh" \
        --button "/opt/appstore/img/img_open.png;;225,300;/opt/supertux/AppRun" \
-       --button "/tmp/store/asset/image/supertux_scr.png;;1,400;null" \
+       --button "/tmp/store/asset/image/supertux_scr.jpg;;1,400;null" \
 )
 fi
 
@@ -58,7 +58,7 @@ xlunch --window --title "PingviniX Store"  \
        --button "/tmp/description.png;;425,0;null" \
        --button "/opt/appstore/img/img_delete.png;;25,300;/tmp/store/asset/supertux_delete.sh" \
        --button "/opt/appstore/img/img_update.png;;225,300;supertux_update.sh" \
-       --button "/tmp/store/asset/image/supertux_scr.png;;1,400;null" \
+       --button "/tmp/store/asset/image/supertux_scr.jpg;;1,400;null" \
 )
 fi
 
@@ -74,6 +74,6 @@ xlunch --window --title "PingviniX Store"  \
        --button "/opt/appstore/img/img_back.png;;1,1;/opt/appstore/appstore_nocache" \
        --button "/tmp/description.png;;425,0;null" \
        --button "/opt/appstore/img/img_install.png;;60,300;/tmp/store/asset/supertux_install.sh" \
-       --button "/tmp/store/asset/image/supertux_scr.png;;1,400;null" \
+       --button "/tmp/store/asset/image/supertux_scr.jpg;;1,400;null" \
 )
 fi
