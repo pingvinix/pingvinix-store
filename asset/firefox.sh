@@ -24,7 +24,7 @@ killall xlunch
 
 if [ -f /run/initramfs/memory/data/linux/modules/firefox-esr* ]
 then 
-    if [ -f /run/initramfs/memory/data/linux/modules/firefox-esr_115.5.sb ]
+    if [ -f /run/initramfs/memory/data/linux/modules/firefox-esr_115.6.sb ]
     then
     STAT=2
     else
