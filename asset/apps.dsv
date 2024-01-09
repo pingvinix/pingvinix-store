@@ -1,9 +1,17 @@
+Abiword;/usr/share/icons/png/abiword.png;/tmp/store/asset/abiword.sh
 Anydesk;/usr/share/icons/png/anydesk.png;/tmp/store/asset/anydesk.sh
+Audacity;/usr/share/icons/png/audacity.png;/tmp/store/asset/audacity.sh
+BalenaEtcher;/usr/share/icons/png/balena-etcher-electron.png;/tmp/store/asset/balenaetcher.sh
 Firefox;/usr/share/icons/png/firefox.png;/tmp/store/asset/firefox.sh
 GIMP;/usr/share/icons/png/gimp.png;/tmp/store/asset/gimp.sh
+Handbrake;/usr/share/icons/png/handbrake.png;/tmp/store/asset/handbrake.sh
 Inkscape;/usr/share/icons/png/inkscape.png;/tmp/store/asset/inkscape.sh
+Kdenlive;/usr/share/icons/png/kdenlive.png;/tmp/store/asset/kdenlive.sh
+Leftsider;/usr/share/icons/png/preferences-desktop-theme-windowdecorations.png;/tmp/store/asset/leftsider.sh
 LibreOffice;/usr/share/icons/png/libreoffice.png;/tmp/store/asset/libreoffice.sh
+OBSstudio;/usr/share/icons/png/obs.png;/tmp/store/asset/obs.sh
 Pinta;/usr/share/icons/png/com.github.maoschanz.drawing.png;/tmp/store/asset/pinta.sh
 Supertux;/usr/share/icons/png/supertux.png;/tmp/store/asset/supertux.sh
 Telegram;/usr/share/icons/png/telegram.png;/tmp/store/asset/telegram.sh
+Transmission;/usr/share/icons/png/transmission.png;/tmp/store/asset/transmission.sh
 Zoom;/usr/share/icons/png/zoom-icon.png;/tmp/store/asset/zoom.sh
