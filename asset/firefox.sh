@@ -37,7 +37,7 @@ fi
 if [ "$STAT" = "2" ]
 then
 (
-xlunch --window --title "PingviniX Store"  \
+xlunch --window --title "PingviniX Store" --dontquit  \
        --input /tmp/store/asset/firefox.dsv \
        --noprompt --textafter --iconsize 96 --textpadding 30 \
        --border 50 \
@@ -54,7 +54,7 @@ fi
 if [ "$STAT" = "1" ]
 then
 (
-xlunch --window --title "PingviniX Store"  \
+xlunch --window --title "PingviniX Store" --dontquit  \
        --input /tmp/store/asset/firefox.dsv \
        --noprompt --textafter --iconsize 96 --textpadding 30 \
        --border 50 \
@@ -71,7 +71,7 @@ fi
 if [ "$STAT" = "0" ]
 then
 (
-xlunch --window --title "PingviniX Store"  \
+xlunch --window --title "PingviniX Store" --dontquit  \
        --input /tmp/store/asset/firefox.dsv \
        --noprompt --textafter --iconsize 96 --textpadding 30 \
        --border 50 \
