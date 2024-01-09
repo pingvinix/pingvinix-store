@@ -11,6 +11,7 @@ Leftsider;/usr/share/icons/png/preferences-desktop-theme-windowdecorations.png;/
 LibreOffice;/usr/share/icons/png/libreoffice.png;/tmp/store/asset/libreoffice.sh
 OBSstudio;/usr/share/icons/png/obs.png;/tmp/store/asset/obs.sh
 Pinta;/usr/share/icons/png/com.github.maoschanz.drawing.png;/tmp/store/asset/pinta.sh
+Scribus;/usr/share/icons/png/scribus.png;/tmp/store/asset/scribus.sh
 Supertux;/usr/share/icons/png/supertux.png;/tmp/store/asset/supertux.sh
 Telegram;/usr/share/icons/png/telegram.png;/tmp/store/asset/telegram.sh
 Transmission;/usr/share/icons/png/transmission.png;/tmp/store/asset/transmission.sh
