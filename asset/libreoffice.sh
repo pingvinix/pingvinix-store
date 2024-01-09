@@ -61,7 +61,7 @@ xlunch --window --title "PingviniX Store"  \
        --button "/opt/appstore/img/img_back.png;;1,1;/opt/appstore/appstore_nocache" \
        --button "/tmp/description.png;;425,0;null" \
        --button "/opt/appstore/img/img_delete.png;;25,300;/tmp/store/asset/libreoffice_delete.sh" \
-       --button "/opt/appstore/img/img_update.png;;225,300;libreoffice_update.sh" \
+       --button "/opt/appstore/img/img_update.png;;225,300;/tmp/store/asset/libreoffice_update.sh" \
        --button "/tmp/store/asset/image/libreoffice_scr.png;;1,400;null" \
 )
 fi
